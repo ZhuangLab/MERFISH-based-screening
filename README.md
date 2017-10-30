@@ -1,6 +1,6 @@
 # High-Throughput Sequence-Function Analysis Code
 
-This project contains code for image and sequence analysis for pooled screening  using MERFISH for genotype identification in individual cells as described in [*High-throughput, image-based screening of pooled genetic variant libraries*](doi.org/10.1038/nmeth.4495)
+This project contains code for image and sequence analysis for pooled screening  using MERFISH for genotype identification in individual cells as described in [*High-throughput, image-based screening of pooled genetic variant libraries*](http://doi.org/10.1038/nmeth.4495)
 
 Please check github.com/ZhuangLab for the latest version of this code.
 
